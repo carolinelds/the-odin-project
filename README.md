@@ -7,7 +7,7 @@ Just a page to document my overall progress at [The Odin Project](https://www.th
 --------
 
 1. *All projects made throughout Odin are on their respective repositories of this same account (in order to submit a project, each must have its own repo).*
-2. *English is a second language for me, feel free to make any correction.*
+2. *English is a second language for me, feel free to suggest any correction.*
 
 ---------
 
@@ -23,11 +23,13 @@ Just a page to document my overall progress at [The Odin Project](https://www.th
 
 - [x] Git Basics (14/12/2021)
 
-- [ ] HTML Foundations (in progress)
+- [x] HTML Foundations (18/12/2021)
 
-  > - [ ] Project: Recipes
+  > - [x] Project: [Recipes](https://carolinelds.github.io/odin-recipes/) (19/12/2021) 
+  >
+  >   My first website, very simple yet I am so proud!
 
-- [ ] CSS Foundations
+- [ ] CSS Foundations (in progress)
 
 - [ ] Flexbox
 
